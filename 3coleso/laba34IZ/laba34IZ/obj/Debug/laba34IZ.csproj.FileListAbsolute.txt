@@ -1,0 +1,35 @@
+C:\Users\asus\source\repos\laba34IZ\laba34IZ\bin\Debug\laba34IZ.exe.config
+C:\Users\asus\source\repos\laba34IZ\laba34IZ\bin\Debug\laba34IZ.exe
+C:\Users\asus\source\repos\laba34IZ\laba34IZ\bin\Debug\laba34IZ.pdb
+C:\Users\asus\source\repos\laba34IZ\laba34IZ\obj\Debug\laba34IZ.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\laba34IZ\laba34IZ\obj\Debug\laba34IZ.Form1.resources
+C:\Users\asus\source\repos\laba34IZ\laba34IZ\obj\Debug\laba34IZ.Properties.Resources.resources
+C:\Users\asus\source\repos\laba34IZ\laba34IZ\obj\Debug\laba34IZ.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\laba34IZ\laba34IZ\obj\Debug\laba34IZ.exe
+C:\Users\asus\source\repos\laba34IZ\laba34IZ\obj\Debug\laba34IZ.pdb
+C:\Users\asus\source\repos\laba34IZ\laba34IZ\obj\Debug\laba34IZ.Вопросы.resources
+C:\Users\asus\source\repos\laba34IZ\laba34IZ\obj\Debug\laba34IZ.Ответы.resources
+C:\Users\nafik\Desktop\Учёба\3 курс\Инж знаний\лабы\3\laba34IZ\laba34IZ\bin\Debug\laba34IZ.exe.config
+C:\Users\nafik\Desktop\Учёба\3 курс\Инж знаний\лабы\3\laba34IZ\laba34IZ\bin\Debug\laba34IZ.exe
+C:\Users\nafik\Desktop\Учёба\3 курс\Инж знаний\лабы\3\laba34IZ\laba34IZ\bin\Debug\laba34IZ.pdb
+C:\Users\nafik\Desktop\Учёба\3 курс\Инж знаний\лабы\3\laba34IZ\laba34IZ\obj\Debug\laba34IZ.csprojAssemblyReference.cache
+C:\Users\nafik\Desktop\Учёба\3 курс\Инж знаний\лабы\3\laba34IZ\laba34IZ\obj\Debug\laba34IZ.Form1.resources
+C:\Users\nafik\Desktop\Учёба\3 курс\Инж знаний\лабы\3\laba34IZ\laba34IZ\obj\Debug\laba34IZ.Properties.Resources.resources
+C:\Users\nafik\Desktop\Учёба\3 курс\Инж знаний\лабы\3\laba34IZ\laba34IZ\obj\Debug\laba34IZ.Вопросы.resources
+C:\Users\nafik\Desktop\Учёба\3 курс\Инж знаний\лабы\3\laba34IZ\laba34IZ\obj\Debug\laba34IZ.Ответы.resources
+C:\Users\nafik\Desktop\Учёба\3 курс\Инж знаний\лабы\3\laba34IZ\laba34IZ\obj\Debug\laba34IZ.csproj.GenerateResource.cache
+C:\Users\nafik\Desktop\Учёба\3 курс\Инж знаний\лабы\3\laba34IZ\laba34IZ\obj\Debug\laba34IZ.csproj.CoreCompileInputs.cache
+C:\Users\nafik\Desktop\Учёба\3 курс\Инж знаний\лабы\3\laba34IZ\laba34IZ\obj\Debug\laba34IZ.exe
+C:\Users\nafik\Desktop\Учёба\3 курс\Инж знаний\лабы\3\laba34IZ\laba34IZ\obj\Debug\laba34IZ.pdb
+C:\Users\Дмитрий\Desktop\3coleso\laba34IZ\laba34IZ\bin\Debug\laba34IZ.exe.config
+C:\Users\Дмитрий\Desktop\3coleso\laba34IZ\laba34IZ\bin\Debug\laba34IZ.exe
+C:\Users\Дмитрий\Desktop\3coleso\laba34IZ\laba34IZ\bin\Debug\laba34IZ.pdb
+C:\Users\Дмитрий\Desktop\3coleso\laba34IZ\laba34IZ\obj\Debug\laba34IZ.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\3coleso\laba34IZ\laba34IZ\obj\Debug\laba34IZ.Form1.resources
+C:\Users\Дмитрий\Desktop\3coleso\laba34IZ\laba34IZ\obj\Debug\laba34IZ.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\3coleso\laba34IZ\laba34IZ\obj\Debug\laba34IZ.Вопросы.resources
+C:\Users\Дмитрий\Desktop\3coleso\laba34IZ\laba34IZ\obj\Debug\laba34IZ.Ответы.resources
+C:\Users\Дмитрий\Desktop\3coleso\laba34IZ\laba34IZ\obj\Debug\laba34IZ.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\3coleso\laba34IZ\laba34IZ\obj\Debug\laba34IZ.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\3coleso\laba34IZ\laba34IZ\obj\Debug\laba34IZ.exe
+C:\Users\Дмитрий\Desktop\3coleso\laba34IZ\laba34IZ\obj\Debug\laba34IZ.pdb
